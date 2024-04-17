@@ -26,3 +26,5 @@ The application will print the current weather conditions including temperature,
 
 ## Author
 Created by Michal Frost
+
+![Screenshot from 2024-04-17 10-41-21.png](src%2Fmain%2Fresources%2Fimages%2FScreenshot%20from%202024-04-17%2010-41-21.png)
